@@ -13,8 +13,8 @@ The source fixture is Artie's own [terra](https://github.com/artie-labs/terra) d
 A walkthrough of the architecture, a live run, and the code.
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=_2bagFk1CLk">
-    <img src="https://img.youtube.com/vi/_2bagFk1CLk/maxresdefault.jpg" width="640" alt="Watch the Bartie demo">
+  <a href="https://www.youtube.com/watch?v=FJlTLkR3MAs">
+    <img src="https://img.youtube.com/vi/FJlTLkR3MAs/maxresdefault.jpg" width="640" alt="Watch the Bartie demo">
   </a>
 </p>
 
